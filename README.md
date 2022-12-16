@@ -1,1 +1,1 @@
-# Plasma-Current-AI
+# Classify and analyze plasma current signals with deep neural networks
